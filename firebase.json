@@ -1,0 +1,11 @@
+{
+  "hosting": {
+    "site": "oussama-irhil",
+    "public": ".",
+    "ignore": [
+      "firebase.json",
+      "**/.*",
+      "**/node_modules/**"
+    ]
+  }
+}
